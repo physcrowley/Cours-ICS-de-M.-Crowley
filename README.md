@@ -1,11 +1,16 @@
-# Cours ICS de M. Crowley
+# 💻 Cours ICS de M. Crowley
 
-Beinvenu sur le site du cours de M. Crowley!
+Bienvenue sur le site des cours d'études informatiques de M. Crowley!
 
-## Organisation
+## 🗂 Organisation
 
-Le site est organisé conceptuellement et non par niveau d'études. Par contre, le cours ICS3U est basé sur **Python 3** tandis que le cours ICS4U est basé sur **Java**.
+Le site est **organisé conceptuellement** et non par niveau d'études. 
 
-Voici les liens aux sections pertinentes :
+Le cours ICS3U est basé sur **Python 3**.
 
-[Debug](debug.md)
+Le cours ICS4U est basé sur **Java**.
+
+## 🗺 Sections pertinentes
+
+🕹 [Plan de cours ICS3U](plans/3U.md) | 💻 [Plan de cours ICS4U](plans/4U.md)
+

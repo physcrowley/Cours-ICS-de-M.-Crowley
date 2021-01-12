@@ -3,5 +3,6 @@
 Liste des tutoriels à développer en 4U
 
 * Rôles
-* Planification
+* Planification logistique
+* Planification technique
 * Partage du code
