@@ -36,7 +36,7 @@ Dans cette section, on trouve la plupart des techniques utilisées dans tout pro
 
 ### 🗣 Communication
 
-C'est important de rendre trois parties de ses prgrammes très claires :
+C'est important de rendre plusieurs aspects de ses prgrammes très claires. C'est aussi important de réaliser qu'il y a **deux perspectives** à considérer en lien avec la communication.
 
 #### Perspective des développeurs
 
@@ -46,6 +46,7 @@ C'est important de rendre trois parties de ses prgrammes très claires :
 #### Perspective de l'utilisateur
 
 * quoi faire
+* comment le faire
 * le résultat de chaque action
 
 Voir la page sur la [communication](concepts/communication.md).
