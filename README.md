@@ -73,4 +73,4 @@ En plus, il a généralement besoin de savoir comment planifier des plus gros pr
 
 Des logiciels ont été conçus spécifiquement pour répondre à ces besoins, un-par-un et aussi de façon intégrée.
 
-Voir la page sur les [outils](outils.md)
+Voir la page sur les [outils](outils.md) et le [travail d'équipe](equipes.md).
